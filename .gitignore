@@ -1,0 +1,11 @@
+# Screen recordings / large media (not part of the site)
+*.mp4
+*.mov
+
+# OS / editor junk
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temp / preview artifacts
+_preview_tmp.html
