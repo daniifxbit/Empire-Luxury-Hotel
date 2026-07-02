@@ -10,11 +10,11 @@ verre dépoli et typographie *Fraunces* + *Inter*.
 
 | Fichier / dossier | Description |
 |---|---|
-| `Empire Luxury Hotel.html` | La page du site (hero, chambres & suites, services, galerie, situation, réservation) |
+| `index.html` | La page du site (hero, chambres & suites, services, galerie, situation, réservation) |
 | `empire-luxury-hotel-charte-de-marque.html` | La charte de marque |
 | `assets/photos/` | Images utilisées par le site |
 | `Photos/` | Banque de photos source |
 
 ## Aperçu
 
-Ouvrir `Empire Luxury Hotel.html` dans un navigateur — aucun serveur ni build requis.
+Ouvrir `index.html` dans un navigateur — aucun serveur ni build requis.
